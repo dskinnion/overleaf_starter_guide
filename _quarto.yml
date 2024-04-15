@@ -14,7 +14,7 @@ book:
     - part: "Getting Started with Overleaf"
       chapters:
         - step1.qmd
-    - part: "Advanced Features and Tips"
+    - part: "Advanced Features & Tips"
       chapters:
         - step2.qmd
     - step3.qmd
