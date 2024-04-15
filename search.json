@@ -1,0 +1,54 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "A Tutorial Template",
+    "section": "",
+    "text": "Preface\nThis is the landing page of the tutorial. It must always be called “index.qmd”.\nSee https://quarto.org/docs/books/ for more information on customizing a Quarto book.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "introduction.html",
+    "href": "introduction.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "This is the introduction of the tutorial.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "step1.html",
+    "href": "step1.html",
+    "title": "2  Step 1",
+    "section": "",
+    "text": "This is step 1 of the tutorial.",
+    "crumbs": [
+      "Section 1",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Step 1</span>"
+    ]
+  },
+  {
+    "objectID": "step2.html",
+    "href": "step2.html",
+    "title": "3  Step 2",
+    "section": "",
+    "text": "This is step 2 of the tutorial.",
+    "crumbs": [
+      "Section 2",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Step 2</span>"
+    ]
+  },
+  {
+    "objectID": "step3.html",
+    "href": "step3.html",
+    "title": "4  Step 3",
+    "section": "",
+    "text": "This is step 3 of the tutorial.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Step 3</span>"
+    ]
+  }
+]
