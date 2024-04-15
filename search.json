@@ -2,7 +2,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "A Tutorial Template",
+    "title": "Overleaf Starter Guide",
     "section": "",
     "text": "Preface\nThis is the landing page of the tutorial. It must always be called “index.qmd”.\nTesting testing testing.\nSee https://quarto.org/docs/books/ for more information on customizing a Quarto book.",
     "crumbs": [
