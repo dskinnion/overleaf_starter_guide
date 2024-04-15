@@ -2,8 +2,8 @@ project:
   type: book
 
 book:
-  title: "A Tutorial Template"
-  author: "DSS Superstar #1"
+  title: "Overleaf Starter Guide"
+  author: "IQSS"
   date: "last-modified"
   page-navigation: true
   search: true
