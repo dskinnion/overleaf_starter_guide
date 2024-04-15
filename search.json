@@ -26,7 +26,7 @@
     "section": "",
     "text": "This is step 1 of the tutorial.",
     "crumbs": [
-      "Section 1",
+      "Getting Started with Overleaf",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Step 1</span>"
     ]
   },
@@ -37,7 +37,7 @@
     "section": "",
     "text": "This is step 2 of the tutorial.",
     "crumbs": [
-      "Section 2",
+      "Advanced Features & Tips",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Step 2</span>"
     ]
   },
