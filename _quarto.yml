@@ -1,4 +1,4 @@
-project:
+ting project:
   type: book
 
 book:
@@ -11,10 +11,10 @@ book:
   chapters:
     - index.qmd
     - introduction.qmd
-    - part: "Section 1"
+    - part: "Getting Started with Overleaf"
       chapters:
         - step1.qmd
-    - part: "Section 2"
+    - part: "Advanced Features and Tips"
       chapters:
         - step2.qmd
     - step3.qmd
