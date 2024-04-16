@@ -68,7 +68,7 @@
     "href": "collaborating.html",
     "title": "6  Collaborating on Overleaf",
     "section": "",
-    "text": "One of the key features of Overleaf is its support for real-time collaboration. Here’s how you can collaborate with others on a document: - Share Project: Click on the “Share” button to invite collaborators via email. You can specify their permissions (edit or view-only) and work together in real-time on the same document. - Version History: Overleaf keeps track of changes made to your document, allowing you to revert to previous versions if needed. You can access the version history from the history menu. - Chat and Comments: Communicate with collaborators using the built-in chat feature or leave comments on specific parts of the document to discuss changes or provide feedback.",
+    "text": "One of the key features of Overleaf is its support for real-time collaboration. Here’s how you can collaborate with others on a document:\n\nShare Project: Click on the “Share” button to invite collaborators via email. You can specify their permissions (edit or view-only) and work together in real-time on the same document.\nVersion History: Overleaf keeps track of changes made to your document, allowing you to revert to previous versions if needed. You can access the version history from the history menu.\nChat and Comments: Communicate with collaborators using the built-in chat feature or leave comments on specific parts of the document to discuss changes or provide feedback.",
     "crumbs": [
       "Getting Started with Overleaf",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Collaborating on Overleaf</span>"
