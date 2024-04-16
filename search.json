@@ -46,7 +46,7 @@
     "href": "interface.html",
     "title": "4  Understanding the Overleaf Interface",
     "section": "",
-    "text": "Once you’ve created a new project, you’ll see the Overleaf editor interface, which consists of: - Text Editor: The left-hand panel where you write your LaTeX code. - Preview Pane: The right-hand panel where you can see a live preview of your document as you write. - Toolbar: Located at the top of the editor, it contains buttons for common actions such as compiling, saving, and sharing your document.",
+    "text": "Once you’ve created a new project, you’ll see the Overleaf editor interface, which consists of:\n\nText Editor: The left-hand panel where you write your LaTeX code.\nPreview Pane: The right-hand panel where you can see a live preview of your document as you write.\nToolbar: Located at the top of the editor, it contains buttons for common actions such as compiling, saving, and sharing your document.",
     "crumbs": [
       "Getting Started with Overleaf",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Understanding the Overleaf Interface</span>"
