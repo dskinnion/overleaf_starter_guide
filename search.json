@@ -57,7 +57,7 @@
     "href": "writing.html",
     "title": "5  Writing Your Document",
     "section": "",
-    "text": "You can start writing your document directly in the text editor using LaTeX syntax. Here are some basic LaTeX commands to get you started: - Document Structure: Begin with a preamble where you specify the document class, packages, and settings. The main content of your document is enclosed between",
+    "text": "You can start writing your document directly in the text editor using LaTeX syntax. Here are some basic LaTeX commands to get you started:\n\nDocument Structure: Begin with a preamble where you specify the document class, packages, and settings. The main content of your document is enclosed between\nSections and Subsections: Use commands like\nand\nto organize your document into sections and subsections.\nText Formatting: Apply formatting such as bold, italics, and underline using commands like , , and respectively.\nLists: Create itemized or numbered lists using the itemize or enumerate environments.\nMath Equations: LaTeX excels at typesetting mathematical equations. Use the $ … $ or [ … ] delimiters for inline or displayed equations respectively.\nFigures and Tables: Insert figures and tables using the and table environments respectively.",
     "crumbs": [
       "Getting Started with Overleaf",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Writing Your Document</span>"
