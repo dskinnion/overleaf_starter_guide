@@ -24,7 +24,7 @@
     "href": "sign_up.html",
     "title": "2  Sign Up / Login",
     "section": "",
-    "text": "To begin using Overleaf, visit the website \\(\\href{overleaf.com}\\) and either sign up for a new account or log in if you already have one. Use your Harvard Google account, as that will provide you with access to Overleaf’s premium subscription, and free templates.",
+    "text": "To begin using Overleaf, visit the website overleaf.com and either sign up for a new account or log in if you already have one. Use your Harvard Google account, as that will provide you with access to Overleaf’s premium subscription, and free templates.",
     "crumbs": [
       "Getting Started with Overleaf",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Sign Up / Login</span>"
