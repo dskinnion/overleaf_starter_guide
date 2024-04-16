@@ -1,0 +1,3 @@
+# Customizing Templates {.sec-templates}
+
+Overleaf provides a wide range of templates for different types of documents. You can also create your own custom templates or modify existing ones to suit your specific needs.
