@@ -13,11 +13,19 @@ book:
     - introduction.qmd
     - part: "Getting Started with Overleaf"
       chapters:
-        - step1.qmd
+        - sign_up.qmd
+        - create_project.qmd
+        - interface.qmd
+        - writing.qmd
+        - collaborating.qmd
+        - exporting.qmd
     - part: "Advanced Features & Tips"
       chapters:
-        - step2.qmd
-    - step3.qmd
+        - templates.qmd
+        - bibs.qmd
+        - packages.qmd
+        - best_prac.qmd
+        - resources.qmd
     - references.qmd
 
 bibliography: references.bib
