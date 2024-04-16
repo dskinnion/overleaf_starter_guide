@@ -14,7 +14,7 @@
     "href": "introduction.html",
     "title": "1  Introduction",
     "section": "",
-    "text": "This is the introduction of the tutorial.",
+    "text": "Overleaf is a cloud-based \\(\\LaTeX\\) editor that simplifies the process of writing, editing, and collaborating on \\(\\LaTeX\\) documents. While it is not a super powerful text editor, its ease of use and collaboration features make it a favorite among many users. In fact, many graduate students and professors prefer Overleaf over all other editors.\nThis starter guide will walk you through getting started in Overleaf, from signing up for an account, to creating projects, collaborating, and much more.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
     ]
