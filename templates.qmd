@@ -1,3 +1,11 @@
 # Customizing Templates {.sec-templates}
 
 Overleaf provides a wide range of templates for different types of documents. You can also create your own custom templates or modify existing ones to suit your specific needs.
+
+Some of the templates that are included with your Overleaf Premium subscription through Harvard are:
+
+- Dissertation and thesis
+- Article
+- Letter
+- Beamer presentation
+- General text document
