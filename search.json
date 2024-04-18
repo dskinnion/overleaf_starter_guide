@@ -88,12 +88,12 @@
   {
     "objectID": "templates.html",
     "href": "templates.html",
-    "title": "8  Customizing Templates",
+    "title": "8  Templates",
     "section": "",
-    "text": "Overleaf provides a wide range of templates for different types of documents. You can also create your own custom templates or modify existing ones to suit your specific needs.\nSome of the templates that are included with your Overleaf Premium subscription through Harvard are:\n\nDissertation and thesis\nArticle\nLetter\nBeamer presentation\nGeneral text document",
+    "text": "Overleaf provides a wide range of templates for different types of documents. You can also create your own custom templates or modify existing ones to suit your specific needs.\nYou can see available templates when you click “New Project” and then in the pop-up menu you can click either “Harvard University” under the “Institution Templates” heading, or any of the general Overleaf templates listed under the “Templates” heading.\nSome of the templates that are included with your Overleaf Premium subscription through Harvard are:\n\nDissertation and thesis\nArticle\nLetter\nBeamer presentation\nGeneral text document\n\nMore general Overleaf templates include:\n\nJournal\nBook\nHomework Assignment\nPoster\nPresentation\nResume / C.V.\nThesis",
     "crumbs": [
       "Advanced Features & Tips",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Customizing Templates</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Templates</span>"
     ]
   },
   {
